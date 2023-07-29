@@ -1,8 +1,8 @@
 title: Spaceman
 author: SpaceMan 
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+url: https://stardoom4.github.io/moonwalker # root address of the site
 description: > # description of the site (multiple lines allowed)
-  My Blog
+  This Is The Website of SpaceMan. I write about Astronomy, Politics, & social Issues. The Blog which i will write on Social Issues and Poltics are my opinion And some individuals may find it disturbing.
 
 permalink: /:slug
 
