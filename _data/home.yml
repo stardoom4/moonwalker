@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Astronomy wiki
-    url: https://stardoom4.github.io/wiki
+    url: overview-post
     desc: An astronomy Wiki 
 
 footer_entries:
